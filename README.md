@@ -1,2 +1,2 @@
 # 3d-Design
-Personal projects I made using Blender: Hobby :)
+Personal projects I made using Blender.
