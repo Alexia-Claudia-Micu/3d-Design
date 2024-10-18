@@ -24,7 +24,7 @@ Most of the .blend and .stl files could not be uploaded, but I provided images a
 - <img src="Profiles/r14.png" alt="Project Logo" height="300">
 - <img src="Profiles/r9.png" alt="Project Logo" height="300">
 - [Room Design](RoomDesign)
-- <img src="RoomDesign/r1.png" alt="Project Logo" height="300">
+- <img src="RoomDesign/render/r1.png" alt="Project Logo" height="300">
 - [Well Diorama](WellDiorama)
 - <img src="WellDiorama/r3.png" alt="Project Logo" height="300">
 - [Window project](Windowproject)
