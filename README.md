@@ -25,6 +25,8 @@ Most of the .blend and .stl files could not be uploaded, but I provided images a
 - <img src="Profiles/r9.png" alt="Project Logo" height="300">
 - [Room Design](RoomDesign)
 - <img src="RoomDesign/render/r1.png" alt="Project Logo" height="300">
+- [Split Sculpture](SplitSculpture)
+- <img src="SplitSculpture/Random/r12.png" alt="Project Logo" height="300">
 - [Well Diorama](WellDiorama)
 - <img src="WellDiorama/r3.png" alt="Project Logo" height="300">
 - [Window project](Windowproject)
@@ -33,6 +35,4 @@ Most of the .blend and .stl files could not be uploaded, but I provided images a
 - <img src="WiseMonkeys/r4.png" alt="Project Logo" height="300">
 - [Zodiac Scorpio](Zodiac_Scorpio)
 - <img src="Zodiac_Scorpio/0001.png" alt="Project Logo" height="300">
-- [Split Sculpture](SplitSculpture)
-- <img src="SplitSculpture/Random/r12.png" alt="Project Logo" height="300">
 
