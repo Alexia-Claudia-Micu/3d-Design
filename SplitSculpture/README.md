@@ -5,5 +5,6 @@
 Areas of learning:
   - Sculpting
   - Texturing and shading
+  - Weight painting
   - Lighting set-up
   - Post-render compositing
