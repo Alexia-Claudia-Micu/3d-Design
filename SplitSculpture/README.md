@@ -8,3 +8,4 @@ Areas of learning:
   - Weight painting
   - Lighting set-up
   - Post-render compositing
+  - Creating 3d-printable assets
