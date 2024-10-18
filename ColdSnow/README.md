@@ -6,6 +6,7 @@ This project took 1 month.
 
 Areas of learning:
   - Character sculpting, retopology and rigging
+  - UV unwrapping
   - Particle simulation for the hair
   - Shading and texturing for the skintone and hair
   - Cloth simulation and sculpting for the clothes
