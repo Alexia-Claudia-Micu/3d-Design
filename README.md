@@ -1,5 +1,6 @@
 # 3d-Design
 Personal projects I made using Blender.
+The projects include various areas of 3d design: from stylized scenes to 3d-printable assets. Each project presented new challenges and learning opportunities.
 
 Most of the .blend and .stl files could not be uploaded, but I provided images and demos.
 
